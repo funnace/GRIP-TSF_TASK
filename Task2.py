@@ -1,3 +1,6 @@
+#Color Identification In Images
+#Author: Yash Bisht
+
 import cv2
 import pandas as pd
 
